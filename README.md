@@ -14,7 +14,7 @@ I am a Computer Science Engineering student at VIT Vellore with a passion for bu
 * **Huffman Analytics Pro:** A lossless compression platform achieving up to 66.7% file size reduction via bit-level encoding.
 
 ### 🏆 Achievements
-* **Competitive Programming:** 250+ DSA problems solved across LeetCode & Codeforces.
+* **Competitive Programming:** 500+ DSA problems solved across LeetCode & Codeforces.
 * **Hackathons:** Runner-up (2nd/30) in the VIT Coding Relay 2026.
 * **Leadership:** Core Technical Member at IEEE Club, VIT Vellore.
 
