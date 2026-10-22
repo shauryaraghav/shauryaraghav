@@ -8,7 +8,7 @@ Passionate about designing robust backend architectures, distributed systems, hi
 ### 💻 About Me
 - 🔭 I’m currently pursuing a B.Tech in Computer Science and Engineering at Vellore Institute of Technology.
 - ⚡ I enjoy solving complex algorithmic problems, optimizing systems, and building full-stack platforms from scratch.
-- 📫 Reach out to me: **shaurya.raghav2024@vitstudent.ac.in** *(or update with your preferred email)*
+- 📫 Reach out to me: **shauryaraghav2000@gmail.com** *(or update with your preferred email)*
 
 ---
 
