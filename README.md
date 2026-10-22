@@ -8,7 +8,7 @@ Passionate about designing robust backend architectures, distributed systems, hi
 ### 💻 About Me
 - 🔭 I’m currently pursuing a B.Tech in Computer Science and Engineering at Vellore Institute of Technology.
 - ⚡ I enjoy solving complex algorithmic problems, optimizing systems, and building full-stack platforms from scratch.
-- 📫 Reach out to me: **shauryaraghav2000@gmail.com** *(or update with your preferred email)*
+- 📫 Reach out to me: **shauryaraghav2000@gmail.com** 
 
 ---
 
@@ -54,6 +54,13 @@ Passionate about designing robust backend architectures, distributed systems, hi
   <img src="https://github-readme-stats.vercel.app/api?username=shauryaraghav&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryaraghav&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
+## 👨‍💻 Connect with Me
 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaurya-raghav111)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/3LI99xRVOa/)
+
+</div>
 ---
 
