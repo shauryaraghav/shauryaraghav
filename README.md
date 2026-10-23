@@ -1,4 +1,6 @@
 # Hi there, I'm Shaurya! 👋
+![Profile Views](https://komarev.com/ghpvc/?username=shauryaraghav&color=blue&style=flat)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FYOUR_GITHUB_USERNAME&countColor=%232670e8)
 
 🚀 **CS Undergraduate & Software Engineering Enthusiast**  
 Passionate about designing robust backend architectures, distributed systems, high-performance algorithms, and privacy-focused machine learning applications.
